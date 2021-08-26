@@ -1,3 +1,3 @@
 # EPC data processing 
 processing energy performance certificate data with python
-![](epc_ example.jpg)
+![](epc_ example.png)
